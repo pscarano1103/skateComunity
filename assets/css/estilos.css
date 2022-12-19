@@ -1,0 +1,14 @@
+body {
+    background-color: var(--corpo);
+    font-family: 'Open Sans', sans-serif;
+    color: var(--fonte);
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--cabeçalhoMobile);
+    padding: 8px 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
